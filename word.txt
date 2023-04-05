@@ -1,0 +1,840 @@
+Arabic Translations:
+كلمة
+عبارة
+لفظة
+كلام
+مصطلح
+تعبير
+حديث
+أنباء
+يقال
+خبر
+وعد
+التحدث
+لفظ
+عدة
+مفردة
+قول
+موعد
+عهد
+
+Arabic Examples:German Translations:
+Wort
+Begriff
+Nachricht
+Zauberwort
+Bezeichnung
+Ausdruck
+Wort-
+Ehrenwort
+sagen
+sprechen
+formulieren
+ausdrücken
+aussprechen
+abfassen
+Word
+Word-
+Schriftzug
+Befehl
+Vokabel
+Machtwort
+Kommando
+
+German Examples:
+The word apologetics is not a negative or defeatist word.
+Das Wort Apologetik ist weder ein negatives noch ein herab-setzendes Wort.
+
+Animation of each word when your Kid correctly completes the word.
+Animation, von jedem Wort, wenn Ihr Kind das Wort richtig abgeschlossen ist.
+
+Naturally, the word count function draws no distinction and counts every single word.
+Diese Funktion unterscheidet natürlich nicht zwischen den Wörtern, sondern zählt jedes einzelne Wort.
+
+The word kenpō is a Japanese translation of the Chinese word quánfǎ.
+Das Wort Kenpo ist eine japanische Übersetzung des chinesischen Wortes quánfǎ.
+
+This word is a derivative of the British word squire.
+Dieses Wort ist eine Ableitung des britischen Wortes squire.
+
+Answer Labels can be one word or a multiple word phrase.
+Antwort Beschriftungen können aus einem Wort oder mehreren Wörtern bestehen.
+
+Each written word symbolized a word of speech.
+Jedes geschriebene Wort symbolisierte ein Wort der Sprache.
+
+Turning hyphenation on or off for a word affects every instance of the word in your book.
+Das Aktivieren bzw. Deaktivieren der Silbentrennung für ein bestimmtes Wort wirkt sich auf jedes Vorkommen dieses Worts in Ihrem Buch aus.
+
+Moves cursor from word to word.
+Bewegt den Cursor von Wort zu Wort.
+
+Some of the expressions match almost word for word.
+Einige der Ausdrücke stimmen Wort für Wort überein.
+
+The search value for specific word must be in one word.
+Der Suchwert für ein bestimmtes Wort muss in Form eines einzigen Wortes vorliegen.
+
+Therefore the word fact within the word factory or factoid will also have bold formatting applied.
+Deshalb wird auf das Wort fact innerhalb der Wörter factory oder factoid ebenfalls Fettschrift angewendet.
+
+Consequently they cannot properly distinguish between the word bhajanti and the word worship.
+Folglich können sie zwischen dem Wort bhajanti und dem Wort "verehren" nicht richtig unterscheiden.
+
+Provides a word to replace the misspelled word.
+Bietet ein Wort an, das das Wort mit dem Rechtschreibfehler ersetzen soll.
+
+To always replace the highlighted word, click a word in the list.
+Zum permanenten Ersetzen des hervorgehobenen Worts klicken Sie auf das gewünschte Wort in der Liste.
+
+Double-clicking a word will select that word.
+Doppelklicken auf ein Wort wählt dieses Wort aus.
+
+When a word's meanings is displayed, double-click another word you want to be translated.
+Wenn eine Bedeutung eines Wortes angezeigt wird, kann im selben Fenster auf ein anderes Wort doppel geklickt werden um es an zu zeigen.
+
+I have conveyed his requests word for word.
+Ich habe seine Anliegen Wort für Wort weitergegeben.
+
+I followed the script word for word.
+Ich hab mich Wort für Wort, an den Text gehalten.
+
+Google translates more or less word after word.
+Google übersetzt jedoch mehr oder minder Wort für Wort.
+Spanish Translations:
+palabra
+término
+verbo
+voz
+noticia
+mensaje
+boca
+momento
+redactar
+formular
+hablar
+rumor
+orden
+vocablo
+frase
+aviso
+charla
+recado
+contraseña
+palabra de honor
+Word
+
+Spanish Examples:
+Cooperation is a key word here.
+En este sentido, la cooperación es una palabra clave.
+
+The word "allegedly" was therefore redundant.
+Por consiguiente, la palabra "presuntamente" es redundante.
+
+Some delegations wanted the word to include children.
+Algunas delegaciones deseaban que el término incluyera a los hijos.
+
+Relief is a soft word for discharge.
+"reducir" es una palabra pulida para "descargar".
+
+This word exists in Japanese as NARAKU.
+Esta palabra existe en japonés como "Naroku".
+
+The first word I learned was injection.
+La primer palabra que aprendí a decir fue "inyección".
+
+The only word for this is transplendid.
+Sólo hay una palabra para describir esto, "transplandeciente".
+
+We actually have a safe word too.
+De hecho, tenemos una palabra de seguridad también.
+
+Perhaps Col. Nicholson defines the word differently.
+Quizás el coronel Nicholson define la palabra de un modo diferente.
+
+Here the word hostess is a euphemism.
+Sí, la palabra "acompañante", es un eufemismo.
+
+Page and word number in dictionary.
+Números de página y palabra en el diccionario.
+
+Days passed without word of the Charter.
+Han pasado días sin una palabra sobre el estatuto.
+
+Every well-chosen word will no doubt be transmitted.
+Cada palabra bien elegida, sin duda, será transmitida.
+
+Each word carries cultural messages and richness of meanings.
+Cada palabra es portadora de mensajes culturales y una riqueza de significados.
+
+The word "specified" should therefore not appear.
+Por consiguiente, no debería aparecer la palabra "especificadas".
+
+It quite often defines word A as word B and then defines word B as word A.
+Muy a menudo define la palabra A como la palabra B y luego define la palabra B como la palabra A.
+
+Translate word for word what I say.
+Traduce palabra por palabra lo que voy a decir.
+
+The actual word nightmare is an Old English word that means evil spirit.
+La palabra pesadilla en sí es un antiguo término inglés que significa espíritu maligno.
+
+Traveling with a dictionary word by word.
+Con un diccionario se viaja de palabra en palabra.
+
+Double-clicking a word will select that word.
+Pulsando dos veces sobre una palabra selecciona dicha palabra.
+French Translations:
+mot
+parole
+terme
+nouvelles
+dit
+paroles
+texte
+rien
+parler
+dire
+formuler
+exprimer
+libeller
+parlé
+nouvelle
+mention
+promesse
+ordre
+propos
+vocable
+mot d'ordre
+Word
+Verbe
+
+French Examples:
+Here the Greek word translated promise means simply an announcement.
+Ici le mot grec traduit par promesse veut simplement dire une annonce.
+
+Many people only know the word Eskimo.
+Bien des gens ne connaissent que le mot Esquimau.
+
+Albertine gave me merely her word, a peremptory word unsupported by proof.
+Albertine ne me donnait que sa parole, une parole péremptoire et non appuyée de preuves.
+
+It provides direct and precise word to word translations between Italian and English.
+Il offre des traductions mot pour mot directes et précises entre le Français et l'Anglais.
+
+The problem with automated translation tools is that it translates word by word.
+Le problème avec les outils de traduction automatique, c'est qu'il traduit mot à mot.
+
+The last word was replaced with a nonsense word.
+Le dernier mot était remplacé par un mot insensé.
+
+But you see, the word personality is a maximum word in our experiential comprehension.
+Voyez-vous, le mot personnalité est un mot maximum dans notre compréhension expérientielle.
+
+I quoted the significations word for word.
+J'ai cité les significations mot pour mot.
+
+Each word of speech needed a corresponding word in written language.
+Chaque mot de la parole a besoin d'un mot correspondant dans la langue écrite.
+
+A check word may be generated that corresponds to the internal data word.
+Un mot de contrôle peut être généré, lequel correspond au mot de données internes.
+
+There is no more ambiguous word in legal and juristic literature than the word right.
+[TRADUCTION] Il n'y a pas de mot plus ambigu dans la doctrine juridique que le mot droit.
+
+Don't translate English into Japanese word for word.
+Ne traduisez pas mot à mot l'anglais en japonais.
+
+Marleau and Montpetit will confirm this almost word for word.
+On en trouvera la confirmation, presque mot pour mot, dans Marleau et Montpetit.
+
+Some of the expressions match almost word for word.
+Certaines expressions correspondent presque mot pour mot.
+
+My husband dictated it almost word for word.
+Mon mari me l'a dictée presque mot pour mot.
+
+Repeat word for word what I say, exactly.
+Répète mot pour mot ce que je dis, exactement.
+
+Repeat what I say word for word.
+Romaine, tu vas répéter mot pour mot ce que je vais te dire.
+
+Honkadori is not merely a reference to another poem even though lines are sometimes copied word for word.
+Un honkadori n'est pas seulement une référence à un autre poème, même si les vers sont parfois copiés mot pour mot.
+
+Another word sometimes used to mean transpiration is the long word, evapotranspiration.
+Activité no 6 - Arts du langage Un autre mot qu'on utilise parfois pour parler de transpiration, c'est le très long mot évapotranspiration.
+
+He qualified his alibi word for word.
+Il a corroboré son alibi mot pour mot.
+Hebrew Translations:
+מילה
+מילים
+הודעה
+מלה
+עצה
+כלום
+מידע
+וורד
+לשוחח
+מילת
+השמועה
+חדש
+דבר
+דיבר
+Word
+שמועות
+
+Hebrew Examples:Japanese Translations:
+言葉
+単語
+語
+ワード
+一言
+文字
+約束
+言
+意味
+語句
+用語
+御言
+知らせ
+伝言
+指示
+という
+Word
+
+Japanese Examples:
+It was named after English word Ethereal.
+それは英語の言葉Etherealにちなんで命名されました。
+
+I believed every word he said.
+私は彼が言ったすべての言葉を信じた。
+
+add 'word' to this spell-checking session
+｀単語｀　を、このスペルチェックセッションに追加する
+
+Auto-complete word from list of available members
+存在するメンバのリストを使用して単語のオートコンプリートを行う
+
+why doesn't excel recognize this word
+Excel　でこの語が認識されない理由
+
+any Python reserved word gets an underscore appended
+あらゆるPython　予約語には下線を追加します。
+
+This clearly indicates word file corruption.
+これは明らかに単語ファイルの破損を示します。
+
+This famous brand has for word...
+この有名なブランドは言葉のために持っています...
+
+This word was borrowed from French.
+この語はフランス語から借用したものだ。
+
+Most used applications are Microsoft word and Excel.
+最もよく使用されるアプリケーションはMicrosoftの単語とExcelです。
+
+Sente is a word in Uganda that means money.
+"Sente"とはウガンダでお金を意味する言葉です
+
+Thereafter, the word retained revolutionary connotations.
+それ以降、この語は革命的な意味合いを持ち続けた。
+
+More of us should reclaim that word.
+多くの人がこの言葉を取り戻すべきです
+
+Hear how static that word sounds?
+この語がいかに生気のない響きがするか　耳をすまして下さい
+
+A word meaning Tenno in English is basically Emperor with capital E.
+英語における天皇を意味する言葉は、原則として大文字のEを用いたEmperorである。
+
+The name Anker comes from the German word for anchor.
+ブランド名のAnkerは、ドイツ語のAnchorに因んで名づけられた。
+
+Selecting to the right word by word
+単語ごとに選択　（右方向）
+
+add a word to personal word list
+パーソナル単語リストに単語を追加する
+
+Answer: Some Christians view the word "doctrine" as almost a curse word.
+答え：　あるクリスチャンたちは"教理"ということばをほとんどののしり言葉のように見ています。
+
+The misspelt word is replaced with the correct word.
+スペルミスの単語が正しい単語に置き換わります。
+Dutch Translations:
+woord
+woordje
+bericht
+nieuws
+term
+gerucht
+belofte
+begrip
+spreken
+praten
+onder woorden brengen
+zeggen
+gehoord
+erewoord
+bevel
+Word
+gelooft
+
+Dutch Examples:
+Our word should be our bond.
+De mensen moeten op ons woord kunnen vertrouwen.
+
+I would emphasise the word 'appropriate'.
+Ik zou in dit opzicht het woord 'passend' willen benadrukken.
+
+I never received word from headquarters.
+Ik heb nooit bericht gehad van het hoofdkwartier.
+
+I got word my mother died.
+Ik kreeg bericht dat mijn moeder overleden is.
+
+Mr President, first a word on waste definition.
+Mijnheer de Voorzitter, eerst enkele woorden over de definitie van het begrip afval.
+
+Nor is the word fundamentalism defined.
+Het woord fundamentalisme wordt ook niet verder gedefinieerd.
+
+Creating misspelled word list, please wait...
+Aanmaken van lijst van verkeerd gespelde woorden, even geduld...
+
+Northern Dimension is still rather a word.
+De noordelijke dimensie is nog steeds voornamelijk een woord.
+
+The western adjacents are spelling a word.
+De westerse adjacenten zijn de spelling van een woord.
+
+This word has too many letters.
+Justin, dit woord heeft te veel letters.
+
+Stop burying me with your word avalanche.
+Stop met mij te begraven met uw woord lawine.
+
+Password is bluemoon, one word.
+Het wachtwoord is "bluemoon", in één woord.
+
+I like that word... together.
+Ik hou van dat woord, "samen".
+
+Next word better not be closets.
+Het volgende woord kan beter niet Kasten zijn...
+
+And the Greek word for hospital is nosocomio.
+En het Griekse woord voor 'ziekenhuis' is 'nosokomio'.
+
+Zyklon is the German word for cyclone.
+De naam Zyklon is afgeleid van het Duitse woord voor cycloon (tropische wervelstorm).
+
+We're done in one word.
+Jij bepaalt de regels niet! -We zijn klaar met één woord.
+
+I gave that sergeant my word.
+Ik heb mijn woord aan die brigadier gegeven.
+
+Repeat them to Lebanese word for word.
+Herhaal ze tegen Libano, woord voor woord.
+
+Singing every song word for word.
+Ze zongen alles woord voor woord mee.
+Polish Translations:
+słowo
+wyraz
+wieść
+słówko
+wiadomość
+określenie
+napis
+informację
+pogadać
+pomówić
+formułować
+mówi
+wiadomo
+słowny
+termin
+Word
+wyrażenia
+
+Polish Examples:
+Never could think of that word.
+Nigdy nie przychodziło mi na myśl to słowo.
+
+I suppose another big word happens.
+Przypuszczam, że inne wielkie słowo się wydarzy.
+
+This word also applies to mathematical and graphic circles.
+Wyraz ten, posiada również zastosowanie do matematycznych i graficznych kręgów.
+
+I hate when people misuse that word.
+Nie cierpię, gdy ludzie źle używają tego wyrazu.
+
+I thought word travelled in the underworld.
+Myślałem, że wieść o nas krążyła w podziemnym świecie.
+
+Sometimes even came a kind word.
+Zdarzało mu się nawet powiedzieć kilka miłych słów.
+
+Tempestuous is the word that the magazines use.
+"Porywcza" to słowo, którego używają w magazynach.
+
+Another word for it is entrapment.
+A inne słowo na to, to więzienie.
+
+You said no Klingon breaks his word.
+Powiedziałeś, że żaden Klingon nie łamie danego słowa.
+
+Sentiment comes easily at 50 cents a word.
+Sentyment łatwo przychodzi, gdy dostaję 50 centów za słowo.
+
+Every word is designed to trap you.
+Każde słowo jest zaprojektowane by schwytać cię w pułapkę.
+
+If that dummy says another word...
+Marvin! Jeśli ta lalka mówi inne słowo...
+
+And every word better be different.
+I lepiej, żeby każde słowo było inne.
+
+Every time Blaine says the word...
+Za każdym razem, gdy Blaine mówi słowo...
+
+And still no word from al-Sayeed.
+I wciąż ani słowa od Al-Sayeeda.
+
+Check and double-check every word I print.
+Sprawdzam podwójnie każde słowo, które wychodzi z druku.
+
+Every single word I wrote was wrong.
+Każde jedno słowo, które napisałem, było złe.
+
+A word caught his eye: Pseudophobos.
+Jakieś słowo przyciągnęło jego oko: "Pseudofobos".
+
+Nobody knows any single English word.
+Nikt nie zna absolutnie ani jednego słowa w języku angielskim.
+
+Right-click a word or phrase and choose Smart Lookup.
+Kliknij prawym przyciskiem myszy słowo lub frazę i wybierz Inteligentny Lookup.
+Portuguese Translations:
+palavra
+notícia
+verbo
+termo
+palavra-chave
+boca
+expressão
+vocábulo
+expressar
+redigir
+formular
+falar
+nada
+recado
+promessa
+aviso
+palavra de Deus
+palavra divina
+palavra do Senhor
+Word
+
+Portuguese Examples:
+Indeed this is the word; aback-taking.
+Sim, esta é a palavra "desconcertante".
+
+Binary averages 12 digits per word.
+A média dos binários são 12 dígitos por palavra.
+
+My brother's word counts for nothing.
+A palavra do meu irmão não conta para nada.
+
+That word is longer than most sentences.
+Essa palavra é mais longa do que muitas frases.
+
+Six-letter word for embarrassing genetic overseer.
+Palavra de três letras para responsável genético embaraçoso.
+
+A grand word for this situation.
+Uma palavra boa. Magnífica para esta situação.
+
+My word's stronger than any parchment.
+A minha palavra é mais forte que qualquer artigo.
+
+Foreign Minister Abedi would like a word.
+O Ministro Externo Abedi gostava de dar-lhe uma palavra.
+
+Mom says you butcher that word.
+A mãe diz que deste cabo dessa palavra.
+
+Cicero transliterated the Greek word into the Latin átheos.
+Cícero traduziu a palavra do grego para o latim como atheos.
+
+Devon checked his international contacts, and word is...
+Devon investigou os contactos dele internacionais, e a palavra é...
+
+More recent word borrowings are from English and French.
+Os empréstimos de palavra mais recentes são do inglês e francês.
+
+Your word against a federal agent.
+A sua palavra contra a de uma agente federal.
+
+They never uttered an anti-Taelon word.
+Eles nunca proferiram uma palavra contra os Taelons.
+
+No word of any injuries or anyone inside.
+Nenhuma palavra de quaisquer lesões ou qualquer um de dentro.
+
+A word of caution, Colonel.
+Bem, uma palavra de advertência, Coronel.
+
+Most likely a word or letter game.
+Mais provável que seja uma palavra ou um jogo de letras.
+
+Boomer and I want a word with Chameleon alone.
+O Boomer e eu queremos ter uma palavra a sós com o Camaleão.
+
+Mini LED word, bevel edge word, acrylic lighting word, high-end advertising word and sign processing, etc.
+Mini palavra do diodo emissor de luz, palavra da borda do chanfro, palavra acrílica da iluminação, palavra da propaganda high-end e processamento do sinal, etc.
+
+Singing every song word for word.
+E cantaram cada cano, palavra por palavra.
+Romanian Translations:
+cuvânt
+vorbă
+veste
+termen
+expresie
+discuție
+știre
+cuvințel
+vorbi
+cuvîntul
+vesti
+cuvînt
+aflat
+Word
+
+Romanian Examples:
+You barely change a word with your father.
+Ai putea să mai schimbi câte un cuvânt, cu tatăl tău.
+
+Andwhateverhappens, Captain no word about it.
+Șiindiferentce se întâmplă, căpitane nici un cuvânt despre asta.
+
+I just received word from Starfleet Medical.
+Tocmai am primit vești de la Divizia Medicală a Flotei Stelare.
+
+Yakuza is a professional gambling word.
+Cuvântul "Yakuza" vine din lumea profesioniștilor jocurilor de noroc.
+
+That depends entirely on Daniel Jacksons word.
+Asta depinde, în întregime, de cuvântul lui Daniel Jackson.
+
+So I guess the word means nothing now.
+Deci, bănuiesc că acest cuvânt nu mai înseamnă nimic, acum.
+
+About how to spread their word through tagging.
+Despre modul în care sa se raspândeasca cuvântul lor printr-tagging.
+
+To a worldwide audience hanging on your every word.
+Pentru un public la nivel mondial agatat pe fiecare cuvânt dumneavoastră.
+
+Odd, you should use that word.
+Ciudat, tu ar trebui să folosești cuvântul acela.
+
+Hope is a dirty four-letter word.
+"speranța" este un cuvânt murdar de 8 litere.
+
+Messier said they kept saying that word.
+Messier a zis că i-a auzit spunând acel cuvânt.
+
+Vasari needed a word for this outstanding achievement.
+Vasari a avut nevoie de un cuvânt pentru această realizare remarcabilă.
+
+There's no English word that adequately describes...
+Nu cred că există un cuvânt adecvat în Limba Engleză care să descrie...
+
+One word describes Rocky Marciano: Tenacity.
+Un singur cuvânt îl descrie pe Rocky Marciano: tenacitatea.
+
+And to the mindless the word sound so comforting.
+Iar pentru cei fără minte aceste cuvinte sună atât de mângâietor.
+
+Looks sadly at the experimenter and continues reading word pairs.
+Se uită cu tristețe la experimentator și continuă să citească perechile de cuvinte.
+
+I meant every word I said.
+Fiecare cuvânt pe care ți l-am spus e cât se poate de adevărat.
+
+Eight-letter word... for extremely hungry.
+Un cuvânt din opt litere, pentru înfometat.
+
+Your word means nothing to him.
+Cuvântul tău, nu mai înseamnă nimic pentru el.
+
+That word right there means death.
+Cuvântul asta de aici înseamnă "DEATH." moarte.
+Russian Translations:
+слово
+термин
+словечко
+новости
+сообщение
+известие
+слух
+обещание
+поговорить
+сказать
+понятие
+слышно
+выражение
+весть
+речь
+ворд
+Word
+
+Russian Examples:
+I see this word, hear this word, feel this word everywhere.
+Я вижу это слово, слышу это слово, чувствую это слово повсюду.
+
+I can still remember his letter word for word.
+Я до сих пор помню это письмо слово в слово.
+
+Interestingly, the Dalek word for sewer is the same as their word... for graveyard.
+Что интересно, значение слова канализация для далеков равнозначно слову кладбище.
+
+That third person's word was your word, as he represented you.
+Слово это третьего лица было для меня твоим словом... поскольку он представлял твои интересы.
+
+They went over every detail together, word by word.
+Они прошлись по всем деталям, слово за словом.
+
+Her word will be the last word for this place.
+Её слово будет последним словом для этого места.
+
+My word is still my word.
+Моё слово по прежнему в силе.
+
+The actual word nightmare is an Old English word that means evil spirit.
+Слово "кошмар" происходит от староанглийского слова, означающего "злой дух".
+
+Then alternate saying a decent word and a swear word in turn.
+Тогда будем поочередно говорить хорошее слово и бранное слово.
+
+You're just matching a word with the same word.
+Ты просто соединяешь слово с тем же словом.
+
+It is the word of traitors over the word of his son.
+Слово предателя против слова его сына.
+
+If my word isn't good enough for you guys, find someone else whose word is.
+Если моего слова вам, ребята, недостаточно, найдите кого-нибудь с более веским словом.
+
+It is guaranteed that the word isn't word CODEFORCES.
+Гарантируется, что слово не является словом CODEFORCES.
+
+Transition to the next word ocuurs only after proper filling of all missing letters in the word.
+Перейти к следующему слову можно только после правильного заполнения всех пропущенных букв в слове.
+
+Some delegations preferred to insert the word "war" before the word "crimes".
+Некоторые делегации предложили перед словом «преступлений» включить слово «военных».
+
+The word "education" appears over 600 times in Agenda 21, second only to the word "government".
+Как уже было отмечено на Всемирной встрече молодежи, в Повестке дня на XXI век слово «образование» упоминается свыше 600 раз и по частотности уступает только слову «правительство».
+
+The word "relevant" was inserted before the word "regulations".
+Перед словом "правилами" было включено слово "соответствующими".
+
+Underline the word "and" after the word "individually".
+Подчеркнуть слово "и" после слова "индивидуально".
+
+He also proposed replacing the word "reprisals" by the word "persecutions".
+Он также предложил заменить слово "репрессалии" словом "преследование".
+
+Pixwords is a word puzzle game, where you have to guess a word by a picture, thus solving a crossword.
+Pixwords это игра-головоломка слова, где вы должны угадать слово на картинке, тем самым решая кроссворд.
+Turkish Translations:
+kelime
+söz
+sözcük
+haber
+laf
+ifade
+cümle
+sözle
+konuşmak
+tek
+açıklama
+sözcükle
+yorum
+Word
+Kur'an
+
+Turkish Examples:
+All these questions help you identify a specific word and word components.
+Bütün bu sorular belirli kelime ve kelime bileşenleri bulmanıza yardımcı olur.
+
+We bring you the full message word by word.
+Kelime başına toplam fiyatı kendilerine iletiyoruz.
+
+Here you listen recorded audio files and write it down word by word in a word document.
+Burada kaydedilmiş ses dosyalarını dinler ve kelime belgesinde kelimeyi kelimeye yazarsınız.
+
+Seven recited a passage I'd written word for word.
+Seven, yazdıklarımdan bir paragrafı kelimesi, kelimesine ezbere okudu.
+
+The first letter of each word to spell out a new word.
+Sadece her kelimenin ilk harfini alarak yeni bir kelime oluşturacaksın.
+
+Say exactly what I told you, word for word.
+Sana söylediklerimin aynısını söyle, kelimesi kelimesine.
+
+The word evidence is an interesting word...
+Bu imruun kelimesi ilginç bir kelime...
+
+A blyad's word is worth nothing against the word of a boss, father.
+Patronun sözüne karşı bir sürtüğün sözü değersizdir, baba.
+
+Goblin is a word used interchangeably by Tolkien with the word Orc.
+Goblin, Tolkien tarafından ork kelimesinin yerine kullanılan eşanlamlı bir kelimedir.
+
+They have a remarkable ability to repeat back everything you have ever told them, word for word.
+Onlara anlattığınız herşeyi kelime kelimesine geriye doğru tekrarlamak için dikkate değer bir yeteneğe sahiptirler.
+
+Extremely effective, it really did - somebody said the word revolution is a bad word.
+Çok etkiliydi, tam olarak - birisi devrim kelimesinin kötü olduğunu söylemişti.
+
+Only use a bad word when no good word will do.
+Kötü kelimeyi sadece güzel kelime iþe yaramadýýnda kullan.
+
+Well, the word robot actually comes from an old Czech word robotnik...
+Robot kelimesi Çek dilindeki eski bir sözcükten geliyor.
+
+Some studies say that one negative word isn't equivalent to one positive word.
+Bazı çalışmalarda bir negatif kelimenin bir pozitif kelimeye eşit olmadığı söyleniyor.
+
+English sentences can rarely be translated word for word into Japanese.
+Almanca cümleler, nadiren kelimenin kelimesini Japonca'ya çevirebilir.
+
+An anagram's a word formed by rearranging the letters of another word.
+Anagram, harfleriyle başka kelimeler oluşturan kelimedir.
+
+Her word will be the last word for this place.
+Onun sözü, buradaki söylenmiş son söz olacak.
+
+Write the last part of the word, and confirm the word.
+Sözcüğün son bölümünü yazın ve sözcüğü onaylayın.
+
+Just remember everything he says, word for word.
+Söyleyeceği her şeyi hatırla yeter, kelimesi kelimesine.
+
+But the word 'apology' is a word not used as we expect in international relations.
+Ama özür dilemek kelimesi uluslararası ilişkilerde beklediğimiz gibi bir kelime kullanmıyorlar.
