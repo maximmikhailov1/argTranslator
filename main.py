@@ -71,8 +71,8 @@ parser.add_argument('word')
 
 args = parser.parse_args()
 
-lttf = None
-lttt = None
+lttf = None # language to translate from
+lttt = None #                       to
 
 for i, language in languages_enum:
     if args.language_to_translate_from.capitalize() == language:
